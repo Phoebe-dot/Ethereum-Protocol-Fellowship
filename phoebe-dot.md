@@ -12,12 +12,12 @@ timezone: Asia/GuangZhou
 <!-- Content_START -->
 
 ### 2025.02.06
-
-筆記
+particepate the first weekly call
+learning epf.wiki study group week 1 
 
 ### 2024.02.07
 
-筆記
+still learning epf.wiki study group week 1 
 
 ### 2024.02.08
 
